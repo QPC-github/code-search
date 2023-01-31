@@ -2,6 +2,6 @@
     "require": {
         "php": ">=5.5.0",
         "silex/silex": "~1.2",
-        "guzzlehttp/guzzle": "~5.0"
+        "guzzlehttp/guzzle": "~6.5"
     }
 }
